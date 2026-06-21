@@ -57,7 +57,7 @@ occasionally flag it as a false positive (e.g. `Trojan:Win32/Sabsik.FL.A!ml`).
 
 **You can verify there's nothing malicious here:**
 - The file has also been checked through VirusTotal and was not detected by
-- any participating security engines at the time of submission.
+  any participating security engines at the time of submission.
 - The full source code (`d3d8_proxy.cpp`) is published in this repository —
   read it yourself, or build it from source if you'd rather not trust the
   binary (instructions below).
