@@ -24,7 +24,7 @@ the sniper scope's circular view appears stretched into an oval.
 
 ## Installation
 
-1. Download `d3d8.dll` from this repo or the [Releases](../../releases) page.
+1. Download `d3d8.dll` from Release page.
 2. Place it in your game's installation folder (where `dfbhd.exe` is located,
    usually something like
    `...\Steam\steamapps\common\Delta Force Black Hawk Down 32680\`).
