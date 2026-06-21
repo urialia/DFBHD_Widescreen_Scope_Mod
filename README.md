@@ -1,4 +1,4 @@
-# DFBHD-ScopeMod
+# DFBHD_Widescreen_Scope_Mod
 
 An unofficial fan mod for **Delta Force: Black Hawk Down** (2003, NovaLogic).
 Fixes the widescreen distortion of the sniper scope and lets you fully replace
