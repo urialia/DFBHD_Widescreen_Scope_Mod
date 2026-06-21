@@ -90,5 +90,5 @@ a legitimate copy of the game.
 
 ## Credits
 
-Created by Urialia
+Created by Urialia.
 README and code cleanup done with Claude (Anthropic).
